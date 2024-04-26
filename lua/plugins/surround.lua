@@ -8,7 +8,6 @@ return {
         visual = "<leader>s",
         delete = "ds",
         change = "cs",
-        change_line = "cS",
       },
     })
   end,
