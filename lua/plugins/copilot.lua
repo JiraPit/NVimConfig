@@ -8,6 +8,8 @@ return {
     opts = {
       suggestion = { enabled = false },
       panel = { enabled = false },
+      inlay_hint = { enabled = false },
+
       filetypes = {
         markdown = true,
         help = true,
