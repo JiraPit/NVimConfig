@@ -1,4 +1,4 @@
 return {
   "wfxr/protobuf.vim",
-  ft = { "proto" },
+  ft = { "proto", "protobuf" },
 }
