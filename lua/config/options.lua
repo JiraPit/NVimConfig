@@ -3,3 +3,4 @@
 -- Add any additional options here
 
 vim.opt.scrolloff = 10
+vim.g.lazyvim_picker = "telescope"
