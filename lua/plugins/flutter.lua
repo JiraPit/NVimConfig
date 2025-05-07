@@ -5,5 +5,7 @@ return {
     "nvim-lua/plenary.nvim",
     "stevearc/dressing.nvim",
   },
-  config = true,
+  config = false,
+  -- I don't know what config is but it used to be true,
+  -- I set it to false cause it was giving errors
 }
