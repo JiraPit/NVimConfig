@@ -8,6 +8,6 @@ rm -d -r ~/.local/state/nvim
 rm -d -r ~/.cache/nvim
 ```
 ```
-git clone https://github.com/JiraPit/VimConfig.git ~/.config/nvim
+git clone git@github.com:JiraPit/NVimConfig.git ~/.config/nvim
 ```
 
